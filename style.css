@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+.hh1{
+margin:0px;
+}
+label{
+    border: 0px white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.b1{
+   border: 3px solid white;
+   border-radius: 20px;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin: 5px;
+}
+canvas{
+    border: 5px white solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 100px purple;   
+    margin-top:50px;
+}
+.divdiv{
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    color:white;
+    background-color: black;
+    line-height: 2;
+    font-size: 19px;
+    font-family:'Courier New', Courier, monospace;
+}
